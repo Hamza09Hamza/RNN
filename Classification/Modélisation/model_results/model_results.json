@@ -1,0 +1,11 @@
+{
+    "models": [
+        {
+            "model_name": "XGBoost",
+            "best_params": {
+                "error": "'XGBoost'"
+            },
+            "val_accuracy": 0.0
+        }
+    ]
+}
