@@ -1,0 +1,1717 @@
+
+🔍 Starting Grid Search for LightGBM...
+Fitting 3 folds for each of 27 candidates, totalling 81 fits
+[LightGBM] [Info] Total Bins 2103
+[LightGBM] [Info] Number of data points in the train set: 271138, number of used features: 53
+[LightGBM] [Info] Start training from score -1.008964
+[LightGBM] [Info] Start training from score -0.718705
+[LightGBM] [Info] Start training from score -2.784588
+[LightGBM] [Info] Start training from score -5.339495
+[LightGBM] [Info] Start training from score -4.128323
+[LightGBM] [Info] Start training from score -3.511628
+[LightGBM] [Info] Start training from score -3.337952
+[LightGBM] [Info] Total Bins 2103
+[LightGBM] [Info] Total Bins 2104
+[LightGBM] [Info] Number of data points in the train set: 271139, number of used features: 53
+[LightGBM] [Info] Total Bins 2103
+[LightGBM] [Info] Start training from score -1.008967
+[LightGBM] [Info] Number of data points in the train set: 271138, number of used features: 53
+[LightGBM] [Info] Start training from score -0.718702
+[LightGBM] [Info] Number of data points in the train set: 271139, number of used features: 53
+[LightGBM] [Info] Start training from score -1.008964
+[LightGBM] [Info] Start training from score -2.784592
+[LightGBM] [Info] Start training from score -0.718705
+[LightGBM] [Info] Start training from score -5.339498
+[LightGBM] [Info] Start training from score -2.784588
+[LightGBM] [Info] Start training from score -1.008967
+[LightGBM] [Info] Total Bins 2104
+[LightGBM] [Info] Start training from score -4.128326
+[LightGBM] [Info] Start training from score -0.718702
+[LightGBM] [Info] Total Bins 2103
+[LightGBM] [Info] Start training from score -5.339495
+[LightGBM] [Info] Start training from score -2.784592
+[LightGBM] [Info] Start training from score -5.338730
+[LightGBM] [Info] Start training from score -4.128323
+[LightGBM] [Info] Start training from score -4.128326
+[LightGBM] [Info] Start training from score -3.511632
+[LightGBM] [Info] Start training from score -3.511628
+[LightGBM] [Info] Start training from score -3.338060
+[LightGBM] [Info] Start training from score -3.337952
+[LightGBM] [Info] Number of data points in the train set: 271139, number of used features: 53
+[LightGBM] [Info] Start training from score -3.511509
+[LightGBM] [Info] Number of data points in the train set: 271139, number of used features: 53
+[LightGBM] [Info] Start training from score -3.338060
+[LightGBM] [Info] Start training from score -1.008967
+[LightGBM] [Info] Total Bins 2104
+[LightGBM] [Info] Number of data points in the train set: 271139, number of used features: 53[LightGBM] [Info] Start training from score -1.008967
+
+[LightGBM] [Info] Start training from score -0.718702
+[LightGBM] [Info] Start training from score -0.718702
+[LightGBM] [Info] Start training from score -2.784592
+[LightGBM] [Info] Start training from score -5.339498
+[LightGBM] [Info] Start training from score -4.128326
+[LightGBM] [Info] Start training from score -2.784592
+[LightGBM] [Info] Start training from score -3.511509
+[LightGBM] [Info] Start training from score -3.338060
+[LightGBM] [Info] Start training from score -1.008967
+[LightGBM] [Info] Start training from score -5.338730
+[LightGBM] [Info] Start training from score -0.718702
+[LightGBM] [Info] Start training from score -4.128326
+[LightGBM] [Info] Start training from score -2.784592
+[LightGBM] [Info] Start training from score -3.511632
+[LightGBM] [Info] Start training from score -3.338060[LightGBM] [Info] Start training from score -5.338730
+
+[LightGBM] [Info] Start training from score -4.128326
+[LightGBM] [Info] Start training from score -3.511632
+[LightGBM] [Info] Start training from score -3.338060
+[LightGBM] [Info] Total Bins 2103
+[LightGBM] [Info] Number of data points in the train set: 271138, number of used features: 53
+[LightGBM] [Info] Start training from score -1.008964
+[LightGBM] [Info] Start training from score -0.718705
+[LightGBM] [Info] Start training from score -2.784588
+[LightGBM] [Info] Start training from score -5.339495
+[LightGBM] [Info] Start training from score -4.128323
+[LightGBM] [Info] Start training from score -3.511628
+[LightGBM] [Info] Start training from score -3.337952
+[CV 3/3] END learning_rate=0.01, n_estimators=50, num_leaves=31;, score=0.734 total time=  16.5s
+[CV 2/3] END learning_rate=0.01, n_estimators=50, num_leaves=31;, score=0.734 total time=  16.6s
+[CV 1/3] END learning_rate=0.01, n_estimators=50, num_leaves=31;, score=0.737 total time=  16.6s
+[LightGBM] [Info] Total Bins 2103
+[LightGBM] [Info] Number of data points in the train set: 271139, number of used features: 53
+[LightGBM] [Info] Start training from score -1.008967
+[LightGBM] [Info] Start training from score -0.718702
+[LightGBM] [Info] Start training from score -2.784592
+[LightGBM] [Info] Start training from score -5.339498
+[LightGBM] [Info] Start training from score -4.128326
+[LightGBM] [Info] Start training from score -3.511509
+[LightGBM] [Info] Total Bins 2103
+[LightGBM] [Info] Start training from score -3.338060
+[LightGBM] [Info] Number of data points in the train set: 271138, number of used features: 53
+[LightGBM] [Info] Start training from score -1.008964
+[LightGBM] [Info] Start training from score -0.718705
+[LightGBM] [Info] Start training from score -2.784588
+[LightGBM] [Info] Start training from score -5.339495
+[LightGBM] [Info] Start training from score -4.128323
+[LightGBM] [Info] Start training from score -3.511628
+[LightGBM] [Info] Start training from score -3.337952
+[LightGBM] [Info] Total Bins 2104
+[LightGBM] [Info] Number of data points in the train set: 271139, number of used features: 53
+[LightGBM] [Info] Start training from score -1.008967
+[LightGBM] [Info] Start training from score -0.718702
+[LightGBM] [Info] Start training from score -2.784592
+[LightGBM] [Info] Start training from score -5.338730
+[LightGBM] [Info] Start training from score -4.128326
+[LightGBM] [Info] Start training from score -3.511632
+[LightGBM] [Info] Start training from score -3.338060
+[CV 1/3] END learning_rate=0.01, n_estimators=50, num_leaves=50;, score=0.756 total time=  23.4s
+[CV 2/3] END learning_rate=0.01, n_estimators=50, num_leaves=50;, score=0.754 total time=  23.4s
+[CV 3/3] END learning_rate=0.01, n_estimators=50, num_leaves=50;, score=0.754 total time=  23.6s
+[LightGBM] [Info] Total Bins 2103
+[LightGBM] [Info] Number of data points in the train set: 271138, number of used features: 53
+[LightGBM] [Info] Start training from score -1.008964
+[LightGBM] [Info] Total Bins 2103
+[LightGBM] [Info] Number of data points in the train set: 271139, number of used features: 53
+[LightGBM] [Info] Start training from score -1.008967
+[LightGBM] [Info] Start training from score -0.718702
+[LightGBM] [Info] Start training from score -2.784592
+[LightGBM] [Info] Start training from score -0.718705
+[LightGBM] [Info] Start training from score -5.339498
+[LightGBM] [Info] Start training from score -4.128326
+[LightGBM] [Info] Start training from score -3.511509
+[LightGBM] [Info] Start training from score -3.338060
+[LightGBM] [Info] Start training from score -2.784588
+[LightGBM] [Info] Start training from score -5.339495
+[LightGBM] [Info] Start training from score -4.128323
+[LightGBM] [Info] Start training from score -3.511628
+[LightGBM] [Info] Start training from score -3.337952
+[LightGBM] [Info] Total Bins 2104
+[LightGBM] [Info] Number of data points in the train set: 271139, number of used features: 53
+[LightGBM] [Info] Start training from score -1.008967
+[LightGBM] [Info] Start training from score -0.718702
+[LightGBM] [Info] Start training from score -2.784592
+[LightGBM] [Info] Start training from score -5.338730
+[LightGBM] [Info] Start training from score -4.128326
+[LightGBM] [Info] Start training from score -3.511632
+[LightGBM] [Info] Start training from score -3.338060
+[CV 2/3] END learning_rate=0.01, n_estimators=50, num_leaves=100;, score=0.782 total time=  41.5s
+[CV 1/3] END learning_rate=0.01, n_estimators=50, num_leaves=100;, score=0.783 total time=  41.7s
+[LightGBM] [Info] Total Bins 2103
+[LightGBM] [Info] Number of data points in the train set: 271139, number of used features: 53
+[LightGBM] [Info] Start training from score -1.008967
+[LightGBM] [Info] Start training from score -0.718702
+[LightGBM] [Info] Start training from score -2.784592
+[LightGBM] [Info] Start training from score -5.339498
+[LightGBM] [Info] Start training from score -4.128326
+[LightGBM] [Info] Start training from score -3.511509
+[LightGBM] [Info] Start training from score -3.338060
+[LightGBM] [Info] Total Bins 2103
+[LightGBM] [Info] Number of data points in the train set: 271138, number of used features: 53
+[LightGBM] [Info] Start training from score -1.008964
+[LightGBM] [Info] Start training from score -0.718705
+[LightGBM] [Info] Start training from score -2.784588
+[LightGBM] [Info] Start training from score -5.339495
+[LightGBM] [Info] Start training from score -4.128323
+[LightGBM] [Info] Start training from score -3.511628
+[LightGBM] [Info] Start training from score -3.337952
+[CV 2/3] END learning_rate=0.01, n_estimators=100, num_leaves=31;, score=0.769 total time=  30.0s
+[CV 1/3] END learning_rate=0.01, n_estimators=100, num_leaves=31;, score=0.770 total time=  30.0s
+[LightGBM] [Info] Total Bins 2103
+[LightGBM] [Info] Number of data points in the train set: 271139, number of used features: 53
+[LightGBM] [Info] Total Bins 2104
+[LightGBM] [Info] Number of data points in the train set: 271139, number of used features: 53
+[LightGBM] [Info] Start training from score -1.008967
+[LightGBM] [Info] Start training from score -0.718702
+[LightGBM] [Info] Start training from score -1.008967
+[LightGBM] [Info] Start training from score -2.784592
+[LightGBM] [Info] Start training from score -0.718702
+[LightGBM] [Info] Start training from score -5.339498
+[LightGBM] [Info] Start training from score -2.784592
+[LightGBM] [Info] Start training from score -5.338730
+[LightGBM] [Info] Start training from score -4.128326
+[LightGBM] [Info] Start training from score -4.128326
+[LightGBM] [Info] Start training from score -3.511509
+[LightGBM] [Info] Start training from score -3.511632
+[LightGBM] [Info] Start training from score -3.338060
+[LightGBM] [Info] Start training from score -3.338060
+[CV 3/3] END learning_rate=0.01, n_estimators=100, num_leaves=31;, score=0.769 total time=  29.4s
+[LightGBM] [Info] Total Bins 2103
+[LightGBM] [Info] Number of data points in the train set: 271138, number of used features: 53
+[LightGBM] [Info] Start training from score -1.008964
+[LightGBM] [Info] Start training from score -0.718705
+[LightGBM] [Info] Start training from score -2.784588
+[LightGBM] [Info] Start training from score -5.339495
+[LightGBM] [Info] Start training from score -4.128323
+[LightGBM] [Info] Start training from score -3.511628
+[LightGBM] [Info] Start training from score -3.337952
+[CV 3/3] END learning_rate=0.01, n_estimators=50, num_leaves=100;, score=0.786 total time=  39.4s
+[LightGBM] [Info] Total Bins 2104
+[LightGBM] [Info] Number of data points in the train set: 271139, number of used features: 53
+[LightGBM] [Info] Start training from score -1.008967
+[LightGBM] [Info] Start training from score -0.718702
+[LightGBM] [Info] Start training from score -2.784592
+[LightGBM] [Info] Start training from score -5.338730
+[LightGBM] [Info] Start training from score -4.128326
+[LightGBM] [Info] Start training from score -3.511632
+[LightGBM] [Info] Start training from score -3.338060
+[CV 1/3] END learning_rate=0.01, n_estimators=100, num_leaves=50;, score=0.790 total time=  43.4s
+[CV 2/3] END learning_rate=0.01, n_estimators=100, num_leaves=50;, score=0.790 total time=  43.2s
+[LightGBM] [Info] Total Bins 2103
+[LightGBM] [Info] Number of data points in the train set: 271139, number of used features: 53
+[LightGBM] [Info] Start training from score -1.008967
+[LightGBM] [Info] Start training from score -0.718702
+[LightGBM] [Info] Start training from score -2.784592
+[LightGBM] [Info] Start training from score -5.339498
+[LightGBM] [Info] Start training from score -4.128326
+[LightGBM] [Info] Start training from score -3.511509
+[LightGBM] [Info] Start training from score -3.338060
+[LightGBM] [Info] Total Bins 2103
+[LightGBM] [Info] Number of data points in the train set: 271138, number of used features: 53
+[LightGBM] [Info] Start training from score -1.008964
+[LightGBM] [Info] Start training from score -0.718705
+[LightGBM] [Info] Start training from score -2.784588
+[LightGBM] [Info] Start training from score -5.339495
+[LightGBM] [Info] Start training from score -4.128323
+[LightGBM] [Info] Start training from score -3.511628
+[LightGBM] [Info] Start training from score -3.337952
+[CV 3/3] END learning_rate=0.01, n_estimators=100, num_leaves=50;, score=0.792 total time=  41.7s
+[LightGBM] [Info] Total Bins 2104
+[LightGBM] [Info] Number of data points in the train set: 271139, number of used features: 53
+[LightGBM] [Info] Start training from score -1.008967
+[LightGBM] [Info] Start training from score -0.718702
+[LightGBM] [Info] Start training from score -2.784592
+[LightGBM] [Info] Start training from score -5.338730
+[LightGBM] [Info] Start training from score -4.128326
+[LightGBM] [Info] Start training from score -3.511632
+[LightGBM] [Info] Start training from score -3.338060
+[CV 1/3] END learning_rate=0.01, n_estimators=200, num_leaves=31;, score=0.793 total time=  56.3s
+[LightGBM] [Info] Total Bins 2103
+[LightGBM] [Info] Number of data points in the train set: 271139, number of used features: 53
+[LightGBM] [Info] Start training from score -1.008967
+[LightGBM] [Info] Start training from score -0.718702
+[LightGBM] [Info] Start training from score -2.784592
+[LightGBM] [Info] Start training from score -5.339498
+[LightGBM] [Info] Start training from score -4.128326
+[LightGBM] [Info] Start training from score -3.511509
+[LightGBM] [Info] Start training from score -3.338060
+[CV 2/3] END learning_rate=0.01, n_estimators=200, num_leaves=31;, score=0.793 total time=  56.4s
+[LightGBM] [Info] Total Bins 2103
+[LightGBM] [Info] Number of data points in the train set: 271138, number of used features: 53
+[LightGBM] [Info] Start training from score -1.008964
+[LightGBM] [Info] Start training from score -0.718705
+[LightGBM] [Info] Start training from score -2.784588
+[LightGBM] [Info] Start training from score -5.339495
+[LightGBM] [Info] Start training from score -4.128323
+[LightGBM] [Info] Start training from score -3.511628
+[LightGBM] [Info] Start training from score -3.337952
+[CV 1/3] END learning_rate=0.01, n_estimators=100, num_leaves=100;, score=0.825 total time= 1.3min
+[LightGBM] [Info] Total Bins 2104
+[LightGBM] [Info] Number of data points in the train set: 271139, number of used features: 53
+[LightGBM] [Info] Start training from score -1.008967
+[LightGBM] [Info] Start training from score -0.718702
+[LightGBM] [Info] Start training from score -2.784592
+[LightGBM] [Info] Start training from score -5.338730
+[LightGBM] [Info] Start training from score -4.128326
+[LightGBM] [Info] Start training from score -3.511632
+[LightGBM] [Info] Start training from score -3.338060
+[CV 3/3] END learning_rate=0.01, n_estimators=100, num_leaves=100;, score=0.826 total time= 1.3min
+[CV 3/3] END learning_rate=0.01, n_estimators=200, num_leaves=31;, score=0.794 total time=  57.6s
+[CV 2/3] END learning_rate=0.01, n_estimators=100, num_leaves=100;, score=0.823 total time= 1.3min
+[LightGBM] [Info] Total Bins 2103
+[LightGBM] [Info] Number of data points in the train set: 271139, number of used features: 53
+[LightGBM] [Info] Start training from score -1.008967
+[LightGBM] [Info] Start training from score -0.718702
+[LightGBM] [Info] Start training from score -2.784592
+[LightGBM] [Info] Start training from score -5.339498
+[LightGBM] [Info] Start training from score -4.128326
+[LightGBM] [Info] Start training from score -3.511509
+[LightGBM] [Info] Start training from score -3.338060
+[LightGBM] [Info] Total Bins 2104
+[LightGBM] [Info] Number of data points in the train set: 271139, number of used features: 53
+[LightGBM] [Info] Start training from score -1.008967
+[LightGBM] [Info] Start training from score -0.718702
+[LightGBM] [Info] Start training from score -2.784592
+[LightGBM] [Info] Start training from score -5.338730
+[LightGBM] [Info] Start training from score -4.128326
+[LightGBM] [Info] Start training from score -3.511632
+[LightGBM] [Info] Start training from score -3.338060
+[LightGBM] [Info] Total Bins 2103
+[LightGBM] [Info] Number of data points in the train set: 271138, number of used features: 53
+[LightGBM] [Info] Start training from score -1.008964
+[LightGBM] [Info] Start training from score -0.718705
+[LightGBM] [Info] Start training from score -2.784588
+[LightGBM] [Info] Start training from score -5.339495
+[LightGBM] [Info] Start training from score -4.128323
+[LightGBM] [Info] Start training from score -3.511628
+[LightGBM] [Info] Start training from score -3.337952
+[CV 2/3] END learning_rate=0.1, n_estimators=50, num_leaves=31;, score=0.826 total time=  14.7s
+[CV 1/3] END learning_rate=0.1, n_estimators=50, num_leaves=31;, score=0.823 total time=  14.8s
+/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/joblib/externals/loky/process_executor.py:752: UserWarning: A worker stopped while some jobs were given to the executor. This can be caused by a too short worker timeout or by a memory leak.
+  warnings.warn(
+[LightGBM] [Info] Total Bins 2103
+[LightGBM] [Info] Number of data points in the train set: 271139, number of used features: 53
+[LightGBM] [Info] Start training from score -1.008967
+[LightGBM] [Info] Start training from score -0.718702
+[LightGBM] [Info] Start training from score -2.784592
+[LightGBM] [Info] Start training from score -5.339498
+[LightGBM] [Info] Start training from score -4.128326
+[LightGBM] [Info] Start training from score -3.511509
+[LightGBM] [Info] Start training from score -3.338060
+[LightGBM] [Info] Total Bins 2103
+[LightGBM] [Info] Number of data points in the train set: 271138, number of used features: 53
+[LightGBM] [Info] Start training from score -1.008964
+[LightGBM] [Info] Start training from score -0.718705
+[LightGBM] [Info] Start training from score -2.784588
+[LightGBM] [Info] Start training from score -5.339495
+[LightGBM] [Info] Start training from score -4.128323
+[LightGBM] [Info] Start training from score -3.511628
+[LightGBM] [Info] Start training from score -3.337952
+[CV 1/3] END learning_rate=0.01, n_estimators=200, num_leaves=50;, score=0.818 total time= 1.4min
+[LightGBM] [Info] Total Bins 2104
+[LightGBM] [Info] Number of data points in the train set: 271139, number of used features: 53
+[LightGBM] [Info] Start training from score -1.008967
+[LightGBM] [Info] Start training from score -0.718702
+[LightGBM] [Info] Start training from score -2.784592
+[LightGBM] [Info] Start training from score -5.338730
+[LightGBM] [Info] Start training from score -4.128326
+[LightGBM] [Info] Start training from score -3.511632
+[LightGBM] [Info] Start training from score -3.338060
+[CV 3/3] END learning_rate=0.1, n_estimators=50, num_leaves=31;, score=0.829 total time=  14.6s
+[LightGBM] [Info] Total Bins 2103
+[LightGBM] [Info] Number of data points in the train set: 271139, number of used features: 53
+[LightGBM] [Info] Start training from score -1.008967
+[LightGBM] [Info] Start training from score -0.718702
+[LightGBM] [Info] Start training from score -2.784592
+[LightGBM] [Info] Start training from score -5.339498
+[LightGBM] [Info] Start training from score -4.128326
+[LightGBM] [Info] Start training from score -3.511509
+[LightGBM] [Info] Start training from score -3.338060
+[CV 1/3] END learning_rate=0.1, n_estimators=50, num_leaves=50;, score=0.852 total time=  22.0s
+[LightGBM] [Info] Total Bins 2103
+[LightGBM] [Info] Number of data points in the train set: 271138, number of used features: 53
+[LightGBM] [Info] Start training from score -1.008964
+[LightGBM] [Info] Start training from score -0.718705
+[LightGBM] [Info] Start training from score -2.784588
+[LightGBM] [Info] Start training from score -5.339495
+[LightGBM] [Info] Start training from score -4.128323
+[LightGBM] [Info] Start training from score -3.511628
+[LightGBM] [Info] Start training from score -3.337952
+[CV 2/3] END learning_rate=0.01, n_estimators=200, num_leaves=50;, score=0.815 total time= 1.4min
+[LightGBM] [Info] Total Bins 2104
+[LightGBM] [Info] Number of data points in the train set: 271139, number of used features: 53
+[LightGBM] [Info] Start training from score -1.008967
+[LightGBM] [Info] Start training from score -0.718702
+[LightGBM] [Info] Start training from score -2.784592
+[LightGBM] [Info] Start training from score -5.338730
+[LightGBM] [Info] Start training from score -4.128326
+[LightGBM] [Info] Start training from score -3.511632
+[LightGBM] [Info] Start training from score -3.338060
+[CV 2/3] END learning_rate=0.1, n_estimators=50, num_leaves=50;, score=0.853 total time=  20.7s
+[LightGBM] [Info] Total Bins 2103
+[LightGBM] [Info] Number of data points in the train set: 271139, number of used features: 53
+[LightGBM] [Info] Start training from score -1.008967
+[LightGBM] [Info] Start training from score -0.718702
+[LightGBM] [Info] Start training from score -2.784592
+[LightGBM] [Info] Start training from score -5.339498
+[LightGBM] [Info] Start training from score -4.128326
+[LightGBM] [Info] Start training from score -3.511509
+[LightGBM] [Info] Start training from score -3.338060
+[CV 3/3] END learning_rate=0.1, n_estimators=50, num_leaves=50;, score=0.851 total time=  20.9s
+[LightGBM] [Info] Total Bins 2103
+[LightGBM] [Info] Number of data points in the train set: 271138, number of used features: 53
+[LightGBM] [Info] Start training from score -1.008964
+[LightGBM] [Info] Start training from score -0.718705
+[LightGBM] [Info] Start training from score -2.784588
+[LightGBM] [Info] Start training from score -5.339495
+[LightGBM] [Info] Start training from score -4.128323
+[LightGBM] [Info] Start training from score -3.511628
+[LightGBM] [Info] Start training from score -3.337952
+[CV 3/3] END learning_rate=0.01, n_estimators=200, num_leaves=50;, score=0.819 total time= 1.4min
+[LightGBM] [Info] Total Bins 2104
+[LightGBM] [Info] Number of data points in the train set: 271139, number of used features: 53
+[LightGBM] [Info] Start training from score -1.008967
+[LightGBM] [Info] Start training from score -0.718702
+[LightGBM] [Info] Start training from score -2.784592
+[LightGBM] [Info] Start training from score -5.338730
+[LightGBM] [Info] Start training from score -4.128326
+[LightGBM] [Info] Start training from score -3.511632
+[LightGBM] [Info] Start training from score -3.338060
+[CV 1/3] END learning_rate=0.1, n_estimators=50, num_leaves=100;, score=0.886 total time=  39.2s
+[CV 1/3] END learning_rate=0.1, n_estimators=100, num_leaves=31;, score=0.835 total time=  28.4s
+[LightGBM] [Info] Total Bins 2103
+[LightGBM] [Info] Total Bins 2103
+[LightGBM] [Info] Number of data points in the train set: 271138, number of used features: 53
+[LightGBM] [Info] Number of data points in the train set: 271139, number of used features: 53
+[LightGBM] [Info] Start training from score -1.008967
+[LightGBM] [Info] Start training from score -0.718702
+[LightGBM] [Info] Start training from score -2.784592
+[LightGBM] [Info] Start training from score -5.339498
+[LightGBM] [Info] Start training from score -4.128326
+[LightGBM] [Info] Start training from score -3.511509
+[LightGBM] [Info] Start training from score -3.338060
+[LightGBM] [Info] Start training from score -1.008964
+[LightGBM] [Info] Start training from score -0.718705
+[LightGBM] [Info] Start training from score -2.784588
+[LightGBM] [Info] Start training from score -5.339495
+[LightGBM] [Info] Start training from score -4.128323
+[LightGBM] [Info] Start training from score -3.511628
+[LightGBM] [Info] Start training from score -3.337952
+[CV 2/3] END learning_rate=0.1, n_estimators=50, num_leaves=100;, score=0.886 total time=  38.1s
+[LightGBM] [Info] Total Bins 2104
+[LightGBM] [Info] Number of data points in the train set: 271139, number of used features: 53
+[LightGBM] [Info] Start training from score -1.008967
+[LightGBM] [Info] Start training from score -0.718702
+[LightGBM] [Info] Start training from score -2.784592
+[LightGBM] [Info] Start training from score -5.338730
+[LightGBM] [Info] Start training from score -4.128326
+[LightGBM] [Info] Start training from score -3.511632
+[LightGBM] [Info] Start training from score -3.338060
+[CV 3/3] END learning_rate=0.1, n_estimators=50, num_leaves=100;, score=0.889 total time=  37.5s
+[LightGBM] [Info] Total Bins 2103
+[LightGBM] [Info] Number of data points in the train set: 271139, number of used features: 53
+[LightGBM] [Info] Start training from score -1.008967
+[LightGBM] [Info] Start training from score -0.718702
+[LightGBM] [Info] Start training from score -2.784592
+[LightGBM] [Info] Start training from score -5.339498
+[LightGBM] [Info] Start training from score -4.128326
+[LightGBM] [Info] Start training from score -3.511509
+[LightGBM] [Info] Start training from score -3.338060
+[CV 2/3] END learning_rate=0.1, n_estimators=100, num_leaves=31;, score=0.856 total time=  27.0s
+[LightGBM] [Info] Total Bins 2103
+[LightGBM] [Info] Number of data points in the train set: 271138, number of used features: 53
+[LightGBM] [Info] Start training from score -1.008964
+[LightGBM] [Info] Start training from score -0.718705
+[LightGBM] [Info] Start training from score -2.784588
+[LightGBM] [Info] Start training from score -5.339495
+[LightGBM] [Info] Start training from score -4.128323
+[LightGBM] [Info] Start training from score -3.511628
+[LightGBM] [Info] Start training from score -3.337952
+[CV 3/3] END learning_rate=0.1, n_estimators=100, num_leaves=31;, score=0.857 total time=  27.3s
+[LightGBM] [Info] Total Bins 2104
+[LightGBM] [Info] Number of data points in the train set: 271139, number of used features: 53
+[LightGBM] [Info] Start training from score -1.008967
+[LightGBM] [Info] Start training from score -0.718702
+[LightGBM] [Info] Start training from score -2.784592
+[LightGBM] [Info] Start training from score -5.338730
+[LightGBM] [Info] Start training from score -4.128326
+[LightGBM] [Info] Start training from score -3.511632
+[LightGBM] [Info] Start training from score -3.338060
+[CV 1/3] END learning_rate=0.1, n_estimators=100, num_leaves=50;, score=0.875 total time=  41.0s
+[LightGBM] [Info] Total Bins 2103
+[LightGBM] [Info] Number of data points in the train set: 271139, number of used features: 53
+[LightGBM] [Info] Start training from score -1.008967
+[LightGBM] [Info] Start training from score -0.718702
+[LightGBM] [Info] Start training from score -2.784592
+[LightGBM] [Info] Start training from score -5.339498
+[LightGBM] [Info] Start training from score -4.128326
+[LightGBM] [Info] Start training from score -3.511509
+[LightGBM] [Info] Start training from score -3.338060
+[CV 2/3] END learning_rate=0.1, n_estimators=100, num_leaves=50;, score=0.879 total time=  40.9s
+[LightGBM] [Info] Total Bins 2103
+[LightGBM] [Info] Number of data points in the train set: 271138, number of used features: 53
+[LightGBM] [Info] Start training from score -1.008964
+[LightGBM] [Info] Start training from score -0.718705
+[LightGBM] [Info] Start training from score -2.784588
+[LightGBM] [Info] Start training from score -5.339495
+[LightGBM] [Info] Start training from score -4.128323
+[LightGBM] [Info] Start training from score -3.511628
+[LightGBM] [Info] Start training from score -3.337952
+[CV 3/3] END learning_rate=0.1, n_estimators=100, num_leaves=50;, score=0.878 total time=  40.3s
+[LightGBM] [Info] Total Bins 2104
+[LightGBM] [Info] Number of data points in the train set: 271139, number of used features: 53
+[LightGBM] [Info] Start training from score -1.008967
+[LightGBM] [Info] Start training from score -0.718702
+[LightGBM] [Info] Start training from score -2.784592
+[LightGBM] [Info] Start training from score -5.338730
+[LightGBM] [Info] Start training from score -4.128326
+[LightGBM] [Info] Start training from score -3.511632
+[LightGBM] [Info] Start training from score -3.338060
+[CV 1/3] END learning_rate=0.01, n_estimators=200, num_leaves=100;, score=0.850 total time= 2.5min
+[LightGBM] [Info] Total Bins 2103
+[LightGBM] [Info] Number of data points in the train set: 271139, number of used features: 53
+[LightGBM] [Info] Start training from score -1.008967
+[LightGBM] [Info] Start training from score -0.718702
+[LightGBM] [Info] Start training from score -2.784592
+[LightGBM] [Info] Start training from score -5.339498
+[LightGBM] [Info] Start training from score -4.128326
+[LightGBM] [Info] Start training from score -3.511509
+[LightGBM] [Info] Start training from score -3.338060
+[CV 2/3] END learning_rate=0.01, n_estimators=200, num_leaves=100;, score=0.852 total time= 2.5min
+[LightGBM] [Info] Total Bins 2103
+[LightGBM] [Info] Number of data points in the train set: 271138, number of used features: 53
+[LightGBM] [Info] Start training from score -1.008964
+[LightGBM] [Info] Start training from score -0.718705
+[LightGBM] [Info] Start training from score -2.784588
+[LightGBM] [Info] Start training from score -5.339495
+[LightGBM] [Info] Start training from score -4.128323
+[LightGBM] [Info] Start training from score -3.511628
+[LightGBM] [Info] Start training from score -3.337952
+[CV 3/3] END learning_rate=0.01, n_estimators=200, num_leaves=100;, score=0.853 total time= 2.5min
+[LightGBM] [Info] Total Bins 2104
+[LightGBM] [Info] Number of data points in the train set: 271139, number of used features: 53
+[LightGBM] [Info] Start training from score -1.008967
+[LightGBM] [Info] Start training from score -0.718702
+[LightGBM] [Info] Start training from score -2.784592
+[LightGBM] [Info] Start training from score -5.338730
+[LightGBM] [Info] Start training from score -4.128326
+[LightGBM] [Info] Start training from score -3.511632
+[LightGBM] [Info] Start training from score -3.338060
+[CV 1/3] END learning_rate=0.1, n_estimators=100, num_leaves=100;, score=0.903 total time= 1.3min
+[LightGBM] [Info] Total Bins 2103
+[LightGBM] [Info] Number of data points in the train set: 271139, number of used features: 53
+[LightGBM] [Info] Start training from score -1.008967
+[LightGBM] [Info] Start training from score -0.718702
+[LightGBM] [Info] Start training from score -2.784592
+[LightGBM] [Info] Start training from score -5.339498
+[LightGBM] [Info] Start training from score -4.128326
+[LightGBM] [Info] Start training from score -3.511509
+[LightGBM] [Info] Start training from score -3.338060
+[CV 1/3] END learning_rate=0.1, n_estimators=200, num_leaves=31;, score=0.857 total time=  53.9s
+[LightGBM] [Info] Total Bins 2103
+[LightGBM] [Info] Number of data points in the train set: 271138, number of used features: 53
+[LightGBM] [Info] Start training from score -1.008964
+[LightGBM] [Info] Start training from score -0.718705
+[LightGBM] [Info] Start training from score -2.784588
+[LightGBM] [Info] Start training from score -5.339495
+[LightGBM] [Info] Start training from score -4.128323
+[LightGBM] [Info] Start training from score -3.511628
+[LightGBM] [Info] Start training from score -3.337952
+[CV 2/3] END learning_rate=0.1, n_estimators=100, num_leaves=100;, score=0.897 total time= 1.3min
+[CV 2/3] END learning_rate=0.1, n_estimators=200, num_leaves=31;, score=0.885 total time=  55.9s
+[LightGBM] [Info] Total Bins 2104
+[LightGBM] [Info] Number of data points in the train set: 271139, number of used features: 53
+[LightGBM] [Info] Start training from score -1.008967
+[LightGBM] [Info] Start training from score -0.718702
+[LightGBM] [Info] Start training from score -2.784592
+[LightGBM] [Info] Start training from score -5.338730
+[LightGBM] [Info] Start training from score -4.128326
+[LightGBM] [Info] Start training from score -3.511632
+[LightGBM] [Info] Start training from score -3.338060
+[LightGBM] [Info] Total Bins 2103
+[LightGBM] [Info] Number of data points in the train set: 271139, number of used features: 53
+[LightGBM] [Info] Start training from score -1.008967
+[LightGBM] [Info] Start training from score -0.718702
+[LightGBM] [Info] Start training from score -2.784592
+[LightGBM] [Info] Start training from score -5.339498
+[LightGBM] [Info] Start training from score -4.128326
+[LightGBM] [Info] Start training from score -3.511509
+[LightGBM] [Info] Start training from score -3.338060
+[CV 3/3] END learning_rate=0.1, n_estimators=200, num_leaves=31;, score=0.883 total time=  54.7s
+[LightGBM] [Info] Total Bins 2103
+[LightGBM] [Info] Number of data points in the train set: 271138, number of used features: 53
+[LightGBM] [Info] Start training from score -1.008964
+[LightGBM] [Info] Start training from score -0.718705
+[LightGBM] [Info] Start training from score -2.784588
+[LightGBM] [Info] Start training from score -5.339495
+[LightGBM] [Info] Start training from score -4.128323
+[LightGBM] [Info] Start training from score -3.511628
+[LightGBM] [Info] Start training from score -3.337952
+[CV 3/3] END learning_rate=0.1, n_estimators=100, num_leaves=100;, score=0.911 total time= 1.2min
+[LightGBM] [Info] Total Bins 2104
+[LightGBM] [Info] Number of data points in the train set: 271139, number of used features: 53
+[LightGBM] [Info] Start training from score -1.008967
+[LightGBM] [Info] Start training from score -0.718702
+[LightGBM] [Info] Start training from score -2.784592
+[LightGBM] [Info] Start training from score -5.338730
+[LightGBM] [Info] Start training from score -4.128326
+[LightGBM] [Info] Start training from score -3.511632
+[LightGBM] [Info] Start training from score -3.338060
+[CV 1/3] END learning_rate=0.2, n_estimators=50, num_leaves=31;, score=0.829 total time=  14.0s
+[LightGBM] [Info] Total Bins 2103
+[LightGBM] [Info] Number of data points in the train set: 271139, number of used features: 53
+[LightGBM] [Info] Start training from score -1.008967
+[LightGBM] [Info] Start training from score -0.718702
+[LightGBM] [Info] Start training from score -2.784592
+[LightGBM] [Info] Start training from score -5.339498
+[LightGBM] [Info] Start training from score -4.128326
+[LightGBM] [Info] Start training from score -3.511509
+[LightGBM] [Info] Start training from score -3.338060
+[CV 2/3] END learning_rate=0.2, n_estimators=50, num_leaves=31;, score=0.786 total time=  13.3s
+[LightGBM] [Info] Total Bins 2103
+[LightGBM] [Info] Number of data points in the train set: 271138, number of used features: 53
+[LightGBM] [Info] Start training from score -1.008964
+[LightGBM] [Info] Start training from score -0.718705
+[LightGBM] [Info] Start training from score -2.784588
+[LightGBM] [Info] Start training from score -5.339495
+[LightGBM] [Info] Start training from score -4.128323
+[LightGBM] [Info] Start training from score -3.511628
+[LightGBM] [Info] Start training from score -3.337952
+[CV 3/3] END learning_rate=0.2, n_estimators=50, num_leaves=31;, score=0.837 total time=  13.7s
+[LightGBM] [Info] Total Bins 2104
+[LightGBM] [Info] Number of data points in the train set: 271139, number of used features: 53
+[LightGBM] [Info] Start training from score -1.008967
+[LightGBM] [Info] Start training from score -0.718702
+[LightGBM] [Info] Start training from score -2.784592
+[LightGBM] [Info] Start training from score -5.338730
+[LightGBM] [Info] Start training from score -4.128326
+[LightGBM] [Info] Start training from score -3.511632
+[LightGBM] [Info] Start training from score -3.338060
+[CV 1/3] END learning_rate=0.1, n_estimators=200, num_leaves=50;, score=0.892 total time= 1.4min
+[LightGBM] [Info] Total Bins 2103
+[LightGBM] [Info] Number of data points in the train set: 271139, number of used features: 53
+[LightGBM] [Info] Start training from score -1.008967
+[LightGBM] [Info] Start training from score -0.718702
+[LightGBM] [Info] Start training from score -2.784592
+[LightGBM] [Info] Start training from score -5.339498
+[LightGBM] [Info] Start training from score -4.128326
+[LightGBM] [Info] Start training from score -3.511509
+[LightGBM] [Info] Start training from score -3.338060
+[CV 1/3] END learning_rate=0.2, n_estimators=50, num_leaves=50;, score=0.839 total time=  21.2s
+[LightGBM] [Info] Total Bins 2103
+[LightGBM] [Info] Number of data points in the train set: 271138, number of used features: 53
+[LightGBM] [Info] Start training from score -1.008964
+[LightGBM] [Info] Start training from score -0.718705
+[LightGBM] [Info] Start training from score -2.784588
+[LightGBM] [Info] Start training from score -5.339495
+[LightGBM] [Info] Start training from score -4.128323
+[LightGBM] [Info] Start training from score -3.511628
+[LightGBM] [Info] Start training from score -3.337952
+[CV 2/3] END learning_rate=0.1, n_estimators=200, num_leaves=50;, score=0.895 total time= 1.4min
+[LightGBM] [Info] Total Bins 2104
+[LightGBM] [Info] Number of data points in the train set: 271139, number of used features: 53
+[LightGBM] [Info] Start training from score -1.008967
+[LightGBM] [Info] Start training from score -0.718702
+[LightGBM] [Info] Start training from score -2.784592
+[LightGBM] [Info] Start training from score -5.338730
+[LightGBM] [Info] Start training from score -4.128326
+[LightGBM] [Info] Start training from score -3.511632
+[LightGBM] [Info] Start training from score -3.338060
+[CV 2/3] END learning_rate=0.2, n_estimators=50, num_leaves=50;, score=0.851 total time=  20.1s
+[LightGBM] [Info] Total Bins 2103
+[LightGBM] [Info] Number of data points in the train set: 271139, number of used features: 53
+[LightGBM] [Info] Start training from score -1.008967
+[LightGBM] [Info] Start training from score -0.718702
+[LightGBM] [Info] Start training from score -2.784592
+[LightGBM] [Info] Start training from score -5.339498
+[LightGBM] [Info] Start training from score -4.128326
+[LightGBM] [Info] Start training from score -3.511509
+[LightGBM] [Info] Start training from score -3.338060
+[CV 3/3] END learning_rate=0.2, n_estimators=50, num_leaves=50;, score=0.858 total time=  20.3s
+[LightGBM] [Info] Total Bins 2103
+[LightGBM] [Info] Number of data points in the train set: 271138, number of used features: 53
+[LightGBM] [Info] Start training from score -1.008964
+[LightGBM] [Info] Start training from score -0.718705
+[LightGBM] [Info] Start training from score -2.784588
+[LightGBM] [Info] Start training from score -5.339495
+[LightGBM] [Info] Start training from score -4.128323
+[LightGBM] [Info] Start training from score -3.511628
+[LightGBM] [Info] Start training from score -3.337952
+[CV 3/3] END learning_rate=0.1, n_estimators=200, num_leaves=50;, score=0.871 total time= 1.3min
+[LightGBM] [Info] Total Bins 2104
+[LightGBM] [Info] Number of data points in the train set: 271139, number of used features: 53
+[LightGBM] [Info] Start training from score -1.008967
+[LightGBM] [Info] Start training from score -0.718702
+[LightGBM] [Info] Start training from score -2.784592
+[LightGBM] [Info] Start training from score -5.338730
+[LightGBM] [Info] Start training from score -4.128326
+[LightGBM] [Info] Start training from score -3.511632
+[LightGBM] [Info] Start training from score -3.338060
+[CV 1/3] END learning_rate=0.2, n_estimators=50, num_leaves=100;, score=0.881 total time=  37.2s
+[CV 2/3] END learning_rate=0.2, n_estimators=50, num_leaves=100;, score=0.880 total time=  37.0s
+[LightGBM] [Info] Total Bins 2103
+[LightGBM] [Info] Number of data points in the train set: 271138, number of used features: 53
+[LightGBM] [Info] Start training from score -1.008964
+[LightGBM] [Info] Start training from score -0.718705
+[LightGBM] [Info] Start training from score -2.784588
+[LightGBM] [Info] Start training from score -5.339495
+[LightGBM] [Info] Start training from score -4.128323
+[LightGBM] [Info] Start training from score -3.511628
+[LightGBM] [Info] Start training from score -3.337952
+[LightGBM] [Info] Total Bins 2103
+[LightGBM] [Info] Number of data points in the train set: 271139, number of used features: 53
+[LightGBM] [Info] Start training from score -1.008967
+[LightGBM] [Info] Start training from score -0.718702
+[LightGBM] [Info] Start training from score -2.784592
+[LightGBM] [Info] Start training from score -5.339498
+[LightGBM] [Info] Start training from score -4.128326
+[LightGBM] [Info] Start training from score -3.511509
+[LightGBM] [Info] Start training from score -3.338060
+[CV 1/3] END learning_rate=0.2, n_estimators=100, num_leaves=31;, score=0.775 total time=  28.1s
+[LightGBM] [Info] Total Bins 2104
+[LightGBM] [Info] Number of data points in the train set: 271139, number of used features: 53
+[LightGBM] [Info] Start training from score -1.008967
+[LightGBM] [Info] Start training from score -0.718702
+[LightGBM] [Info] Start training from score -2.784592
+[LightGBM] [Info] Start training from score -5.338730
+[LightGBM] [Info] Start training from score -4.128326
+[LightGBM] [Info] Start training from score -3.511632
+[LightGBM] [Info] Start training from score -3.338060
+[CV 3/3] END learning_rate=0.2, n_estimators=50, num_leaves=100;, score=0.887 total time=  37.1s
+[LightGBM] [Info] Total Bins 2103
+[LightGBM] [Info] Number of data points in the train set: 271139, number of used features: 53
+[LightGBM] [Info] Start training from score -1.008967
+[LightGBM] [Info] Start training from score -0.718702
+[LightGBM] [Info] Start training from score -2.784592
+[LightGBM] [Info] Start training from score -5.339498
+[LightGBM] [Info] Start training from score -4.128326
+[LightGBM] [Info] Start training from score -3.511509
+[LightGBM] [Info] Start training from score -3.338060
+[CV 2/3] END learning_rate=0.2, n_estimators=100, num_leaves=31;, score=0.798 total time=  27.6s
+[LightGBM] [Info] Total Bins 2103
+[LightGBM] [Info] Number of data points in the train set: 271138, number of used features: 53
+[LightGBM] [Info] Start training from score -1.008964
+[LightGBM] [Info] Start training from score -0.718705
+[LightGBM] [Info] Start training from score -2.784588
+[LightGBM] [Info] Start training from score -5.339495
+[LightGBM] [Info] Start training from score -4.128323
+[LightGBM] [Info] Start training from score -3.511628
+[LightGBM] [Info] Start training from score -3.337952
+[CV 3/3] END learning_rate=0.2, n_estimators=100, num_leaves=31;, score=0.827 total time=  26.9s
+[LightGBM] [Info] Total Bins 2104
+[LightGBM] [Info] Number of data points in the train set: 271139, number of used features: 53
+[LightGBM] [Info] Start training from score -1.008967
+[LightGBM] [Info] Start training from score -0.718702
+[LightGBM] [Info] Start training from score -2.784592
+[LightGBM] [Info] Start training from score -5.338730
+[LightGBM] [Info] Start training from score -4.128326
+[LightGBM] [Info] Start training from score -3.511632
+[LightGBM] [Info] Start training from score -3.338060
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[CV 1/3] END learning_rate=0.2, n_estimators=100, num_leaves=50;, score=0.830 total time=  40.8s
+[LightGBM] [Info] Total Bins 2103
+[LightGBM] [Info] Number of data points in the train set: 271139, number of used features: 53
+[LightGBM] [Info] Start training from score -1.008967
+[LightGBM] [Info] Start training from score -0.718702
+[LightGBM] [Info] Start training from score -2.784592
+[LightGBM] [Info] Start training from score -5.339498
+[LightGBM] [Info] Start training from score -4.128326
+[LightGBM] [Info] Start training from score -3.511509
+[LightGBM] [Info] Start training from score -3.338060
+[CV 2/3] END learning_rate=0.2, n_estimators=100, num_leaves=50;, score=0.827 total time=  41.9s
+[CV 3/3] END learning_rate=0.2, n_estimators=100, num_leaves=50;, score=0.819 total time=  41.6s
+[LightGBM] [Info] Total Bins 2103
+[LightGBM] [Info] Number of data points in the train set: 271138, number of used features: 53
+[LightGBM] [Info] Start training from score -1.008964
+[LightGBM] [Info] Start training from score -0.718705
+[LightGBM] [Info] Start training from score -2.784588
+[LightGBM] [Info] Start training from score -5.339495
+[LightGBM] [Info] Start training from score -4.128323
+[LightGBM] [Info] Start training from score -3.511628
+[LightGBM] [Info] Start training from score -3.337952
+[LightGBM] [Info] Total Bins 2104
+[LightGBM] [Info] Number of data points in the train set: 271139, number of used features: 53
+[LightGBM] [Info] Start training from score -1.008967
+[LightGBM] [Info] Start training from score -0.718702
+[LightGBM] [Info] Start training from score -2.784592
+[LightGBM] [Info] Start training from score -5.338730
+[LightGBM] [Info] Start training from score -4.128326
+[LightGBM] [Info] Start training from score -3.511632
+[LightGBM] [Info] Start training from score -3.338060
+[CV 1/3] END learning_rate=0.1, n_estimators=200, num_leaves=100;, score=0.904 total time= 2.5min
+[LightGBM] [Info] Total Bins 2103
+[LightGBM] [Info] Number of data points in the train set: 271139, number of used features: 53
+[LightGBM] [Info] Start training from score -1.008967
+[LightGBM] [Info] Start training from score -0.718702
+[LightGBM] [Info] Start training from score -2.784592
+[LightGBM] [Info] Start training from score -5.339498
+[LightGBM] [Info] Start training from score -4.128326
+[LightGBM] [Info] Start training from score -3.511509
+[LightGBM] [Info] Start training from score -3.338060
+[CV 3/3] END learning_rate=0.1, n_estimators=200, num_leaves=100;, score=0.902 total time= 2.6min
+[LightGBM] [Info] Total Bins 2103
+[LightGBM] [Info] Number of data points in the train set: 271138, number of used features: 53
+[LightGBM] [Info] Start training from score -1.008964
+[LightGBM] [Info] Start training from score -0.718705
+[LightGBM] [Info] Start training from score -2.784588
+[LightGBM] [Info] Start training from score -5.339495
+[LightGBM] [Info] Start training from score -4.128323
+[LightGBM] [Info] Start training from score -3.511628
+[LightGBM] [Info] Start training from score -3.337952
+[CV 2/3] END learning_rate=0.1, n_estimators=200, num_leaves=100;, score=0.898 total time= 2.6min
+[LightGBM] [Info] Total Bins 2104
+[LightGBM] [Info] Number of data points in the train set: 271139, number of used features: 53
+[LightGBM] [Info] Start training from score -1.008967
+[LightGBM] [Info] Start training from score -0.718702
+[LightGBM] [Info] Start training from score -2.784592
+[LightGBM] [Info] Start training from score -5.338730
+[LightGBM] [Info] Start training from score -4.128326
+[LightGBM] [Info] Start training from score -3.511632
+[LightGBM] [Info] Start training from score -3.338060
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[CV 1/3] END learning_rate=0.2, n_estimators=100, num_leaves=100;, score=0.854 total time= 1.2min
+[LightGBM] [Info] Total Bins 2103
+[LightGBM] [Info] Number of data points in the train set: 271139, number of used features: 53
+[LightGBM] [Info] Start training from score -1.008967
+[LightGBM] [Info] Start training from score -0.718702
+[LightGBM] [Info] Start training from score -2.784592
+[LightGBM] [Info] Start training from score -5.339498
+[LightGBM] [Info] Start training from score -4.128326
+[LightGBM] [Info] Start training from score -3.511509
+[LightGBM] [Info] Start training from score -3.338060
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[CV 2/3] END learning_rate=0.2, n_estimators=100, num_leaves=100;, score=0.845 total time= 1.3min
+[LightGBM] [Info] Total Bins 2103
+[LightGBM] [Info] Number of data points in the train set: 271138, number of used features: 53
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Info] Start training from score -1.008964
+[LightGBM] [Info] Start training from score -0.718705
+[LightGBM] [Info] Start training from score -2.784588
+[LightGBM] [Info] Start training from score -5.339495
+[LightGBM] [Info] Start training from score -4.128323
+[LightGBM] [Info] Start training from score -3.511628
+[LightGBM] [Info] Start training from score -3.337952
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[CV 2/3] END learning_rate=0.2, n_estimators=200, num_leaves=31;, score=0.793 total time=  55.7s
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[CV 1/3] END learning_rate=0.2, n_estimators=200, num_leaves=31;, score=0.774 total time=  56.0s
+[LightGBM] [Info] Total Bins 2104
+[LightGBM] [Info] Number of data points in the train set: 271139, number of used features: 53
+[LightGBM] [Info] Start training from score -1.008967
+[LightGBM] [Info] Start training from score -0.718702
+[LightGBM] [Info] Start training from score -2.784592
+[LightGBM] [Info] Start training from score -5.338730
+[LightGBM] [Info] Start training from score -4.128326
+[LightGBM] [Info] Start training from score -3.511632
+[LightGBM] [Info] Start training from score -3.338060
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Info] Total Bins 2103
+[LightGBM] [Info] Number of data points in the train set: 271139, number of used features: 53
+[LightGBM] [Info] Start training from score -1.008967
+[LightGBM] [Info] Start training from score -0.718702
+[LightGBM] [Info] Start training from score -2.784592
+[LightGBM] [Info] Start training from score -5.339498
+[LightGBM] [Info] Start training from score -4.128326
+[LightGBM] [Info] Start training from score -3.511509
+[LightGBM] [Info] Start training from score -3.338060
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[CV 3/3] END learning_rate=0.2, n_estimators=100, num_leaves=100;, score=0.887 total time= 1.2min
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[CV 3/3] END learning_rate=0.2, n_estimators=200, num_leaves=31;, score=0.808 total time=  55.2s
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[CV 1/3] END learning_rate=0.2, n_estimators=200, num_leaves=50;, score=0.816 total time= 1.2min
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[CV 2/3] END learning_rate=0.2, n_estimators=200, num_leaves=50;, score=0.802 total time= 1.2min
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[CV 3/3] END learning_rate=0.2, n_estimators=200, num_leaves=50;, score=0.813 total time= 1.0min
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[LightGBM] [Warning] No further splits with positive gain, best gain: -inf
+[CV 1/3] END learning_rate=0.2, n_estimators=200, num_leaves=100;, score=0.810 total time= 1.5min
+[CV 2/3] END learning_rate=0.2, n_estimators=200, num_leaves=100;, score=0.797 total time= 1.5min
+[CV 3/3] END learning_rate=0.2, n_estimators=200, num_leaves=100;, score=0.856 total time= 1.5min
+[LightGBM] [Info] Total Bins 2104
+[LightGBM] [Info] Number of data points in the train set: 406708, number of used features: 53
+[LightGBM] [Info] Start training from score -1.008966
+[LightGBM] [Info] Start training from score -0.718703
+[LightGBM] [Info] Start training from score -2.784590
+[LightGBM] [Info] Start training from score -5.339241
+[LightGBM] [Info] Start training from score -4.128325
+[LightGBM] [Info] Start training from score -3.511590
+[LightGBM] [Info] Start training from score -3.338024
+📊 Best params for LightGBM: {'learning_rate': 0.1, 'n_estimators': 100, 'num_leaves': 100} (CV = 0.9035)
+✅ LightGBM — Validation Acc = 0.9163
+
+🔍 Starting Grid Search for KNN...
+Fitting 3 folds for each of 32 candidates, totalling 96 fits
+[CV 3/3] END algorithm=auto, n_neighbors=3, weights=distance;, score=0.922 total time= 2.3min
+[CV 1/3] END algorithm=auto, n_neighbors=3, weights=distance;, score=0.921 total time= 2.3min
+[CV 2/3] END algorithm=auto, n_neighbors=3, weights=distance;, score=0.921 total time= 2.3min
+[CV 1/3] END algorithm=auto, n_neighbors=3, weights=uniform;, score=0.917 total time= 2.3min
+[CV 2/3] END algorithm=auto, n_neighbors=5, weights=uniform;, score=0.913 total time= 2.3min
+[CV 3/3] END algorithm=auto, n_neighbors=3, weights=uniform;, score=0.919 total time= 2.3min
+[CV 2/3] END algorithm=auto, n_neighbors=3, weights=uniform;, score=0.918 total time= 2.3min
+[CV 1/3] END algorithm=auto, n_neighbors=5, weights=uniform;, score=0.912 total time= 2.3min
+[CV 3/3] END algorithm=auto, n_neighbors=5, weights=uniform;, score=0.914 total time= 2.3min
+[CV 3/3] END algorithm=auto, n_neighbors=5, weights=distance;, score=0.920 total time= 2.3min
+[CV 1/3] END algorithm=auto, n_neighbors=5, weights=distance;, score=0.919 total time= 2.3min
+[CV 2/3] END algorithm=auto, n_neighbors=5, weights=distance;, score=0.920 total time= 2.3min
+[CV 1/3] END algorithm=auto, n_neighbors=7, weights=distance;, score=0.917 total time= 2.3min
+[CV 2/3] END algorithm=auto, n_neighbors=7, weights=uniform;, score=0.907 total time= 2.3min
+[CV 1/3] END algorithm=auto, n_neighbors=7, weights=uniform;, score=0.906 total time= 2.3min
+[CV 3/3] END algorithm=auto, n_neighbors=7, weights=uniform;, score=0.908 total time= 2.3min
+[CV 2/3] END algorithm=auto, n_neighbors=7, weights=distance;, score=0.917 total time= 2.3min
+[CV 3/3] END algorithm=auto, n_neighbors=7, weights=distance;, score=0.917 total time= 2.3min
+[CV 1/3] END algorithm=auto, n_neighbors=10, weights=distance;, score=0.912 total time= 2.3min
+[CV 2/3] END algorithm=auto, n_neighbors=10, weights=distance;, score=0.913 total time= 2.3min
+[CV 1/3] END algorithm=auto, n_neighbors=10, weights=uniform;, score=0.898 total time= 2.3min
+[CV 3/3] END algorithm=auto, n_neighbors=10, weights=uniform;, score=0.899 total time= 2.3min
+[CV 2/3] END algorithm=auto, n_neighbors=10, weights=uniform;, score=0.899 total time= 2.3min
+[CV 3/3] END algorithm=auto, n_neighbors=10, weights=distance;, score=0.914 total time= 2.3min
+[CV 3/3] END algorithm=ball_tree, n_neighbors=3, weights=uniform;, score=0.919 total time=18.6min
+[CV 2/3] END algorithm=ball_tree, n_neighbors=3, weights=distance;, score=0.921 total time=18.6min
+[CV 1/3] END algorithm=ball_tree, n_neighbors=3, weights=uniform;, score=0.917 total time=18.7min
+[CV 3/3] END algorithm=ball_tree, n_neighbors=3, weights=distance;, score=0.922 total time=18.6min
+[CV 2/3] END algorithm=ball_tree, n_neighbors=3, weights=uniform;, score=0.918 total time=18.7min
+[CV 1/3] END algorithm=ball_tree, n_neighbors=3, weights=distance;, score=0.921 total time=18.7min
+[CV 2/3] END algorithm=ball_tree, n_neighbors=5, weights=uniform;, score=0.913 total time=20.1min
+[CV 1/3] END algorithm=ball_tree, n_neighbors=5, weights=uniform;, score=0.912 total time=20.2min
+[CV 3/3] END algorithm=ball_tree, n_neighbors=5, weights=uniform;, score=0.914 total time=20.1min
+[CV 3/3] END algorithm=ball_tree, n_neighbors=5, weights=distance;, score=0.920 total time=20.0min
+[CV 1/3] END algorithm=ball_tree, n_neighbors=5, weights=distance;, score=0.919 total time=20.1min
+[CV 2/3] END algorithm=ball_tree, n_neighbors=5, weights=distance;, score=0.920 total time=20.1min
+[CV 2/3] END algorithm=ball_tree, n_neighbors=7, weights=uniform;, score=0.907 total time=21.2min
+[CV 1/3] END algorithm=ball_tree, n_neighbors=7, weights=uniform;, score=0.906 total time=21.3min
+[CV 3/3] END algorithm=ball_tree, n_neighbors=7, weights=uniform;, score=0.908 total time=21.1min
+[CV 1/3] END algorithm=ball_tree, n_neighbors=7, weights=distance;, score=0.917 total time=21.3min
+[CV 2/3] END algorithm=ball_tree, n_neighbors=7, weights=distance;, score=0.917 total time=21.1min
+[CV 3/3] END algorithm=ball_tree, n_neighbors=7, weights=distance;, score=0.917 total time=21.3min
+[CV 1/3] END algorithm=kd_tree, n_neighbors=3, weights=uniform;, score=0.917 total time=  33.2s
+[CV 2/3] END algorithm=kd_tree, n_neighbors=3, weights=uniform;, score=0.918 total time=  33.1s
+[CV 3/3] END algorithm=kd_tree, n_neighbors=3, weights=uniform;, score=0.919 total time=  33.5s
+[CV 1/3] END algorithm=kd_tree, n_neighbors=3, weights=distance;, score=0.921 total time=  31.2s
+[CV 2/3] END algorithm=ball_tree, n_neighbors=10, weights=uniform;, score=0.899 total time=22.5min
+[CV 2/3] END algorithm=kd_tree, n_neighbors=3, weights=distance;, score=0.921 total time=  31.2s
+[CV 1/3] END algorithm=ball_tree, n_neighbors=10, weights=uniform;, score=0.898 total time=22.6min
+[CV 3/3] END algorithm=kd_tree, n_neighbors=3, weights=distance;, score=0.922 total time=  30.7s
+[CV 1/3] END algorithm=kd_tree, n_neighbors=5, weights=uniform;, score=0.912 total time=  45.4s
+[CV 3/3] END algorithm=kd_tree, n_neighbors=5, weights=uniform;, score=0.914 total time=  44.7s
+[CV 2/3] END algorithm=kd_tree, n_neighbors=5, weights=uniform;, score=0.913 total time=  45.4s
+[CV 1/3] END algorithm=kd_tree, n_neighbors=5, weights=distance;, score=0.919 total time=  43.6s
+[CV 3/3] END algorithm=ball_tree, n_neighbors=10, weights=uniform;, score=0.899 total time=22.5min
+[CV 2/3] END algorithm=kd_tree, n_neighbors=5, weights=distance;, score=0.920 total time=  44.0s
+[CV 1/3] END algorithm=ball_tree, n_neighbors=10, weights=distance;, score=0.912 total time=22.8min
+[CV 3/3] END algorithm=kd_tree, n_neighbors=5, weights=distance;, score=0.920 total time=  43.4s
+[CV 1/3] END algorithm=kd_tree, n_neighbors=7, weights=uniform;, score=0.906 total time=  56.0s
+[CV 2/3] END algorithm=kd_tree, n_neighbors=7, weights=uniform;, score=0.907 total time=  55.4s
+[CV 3/3] END algorithm=kd_tree, n_neighbors=7, weights=uniform;, score=0.908 total time=  55.2s
+[CV 1/3] END algorithm=kd_tree, n_neighbors=7, weights=distance;, score=0.917 total time=  53.8s
+[CV 2/3] END algorithm=kd_tree, n_neighbors=7, weights=distance;, score=0.917 total time=  54.7s
+[CV 3/3] END algorithm=kd_tree, n_neighbors=7, weights=distance;, score=0.917 total time=  54.6s
+[CV 2/3] END algorithm=ball_tree, n_neighbors=10, weights=distance;, score=0.913 total time=22.5min
+[CV 3/3] END algorithm=ball_tree, n_neighbors=10, weights=distance;, score=0.914 total time=22.6min
+[CV 1/3] END algorithm=kd_tree, n_neighbors=10, weights=uniform;, score=0.898 total time= 1.2min
+[CV 2/3] END algorithm=kd_tree, n_neighbors=10, weights=uniform;, score=0.899 total time= 1.2min
+[CV 3/3] END algorithm=kd_tree, n_neighbors=10, weights=uniform;, score=0.899 total time= 1.2min
+[CV 1/3] END algorithm=kd_tree, n_neighbors=10, weights=distance;, score=0.912 total time= 1.1min
+[CV 2/3] END algorithm=kd_tree, n_neighbors=10, weights=distance;, score=0.913 total time= 1.1min
+[CV 3/3] END algorithm=kd_tree, n_neighbors=10, weights=distance;, score=0.914 total time= 1.1min
+[CV 1/3] END algorithm=brute, n_neighbors=3, weights=uniform;, score=0.917 total time= 1.9min
+[CV 2/3] END algorithm=brute, n_neighbors=3, weights=uniform;, score=0.918 total time= 2.1min
+[CV 3/3] END algorithm=brute, n_neighbors=3, weights=uniform;, score=0.919 total time= 2.1min
+[CV 1/3] END algorithm=brute, n_neighbors=3, weights=distance;, score=0.921 total time= 2.1min
+[CV 2/3] END algorithm=brute, n_neighbors=3, weights=distance;, score=0.921 total time= 2.2min
+[CV 3/3] END algorithm=brute, n_neighbors=3, weights=distance;, score=0.922 total time= 2.2min
+[CV 1/3] END algorithm=brute, n_neighbors=5, weights=uniform;, score=0.912 total time= 2.3min
+[CV 2/3] END algorithm=brute, n_neighbors=5, weights=uniform;, score=0.913 total time= 2.3min
+[CV 3/3] END algorithm=brute, n_neighbors=5, weights=uniform;, score=0.914 total time= 2.3min
+[CV 1/3] END algorithm=brute, n_neighbors=5, weights=distance;, score=0.919 total time= 2.2min
+[CV 2/3] END algorithm=brute, n_neighbors=5, weights=distance;, score=0.920 total time= 2.2min
+[CV 3/3] END algorithm=brute, n_neighbors=5, weights=distance;, score=0.920 total time= 2.2min
+[CV 1/3] END algorithm=brute, n_neighbors=7, weights=uniform;, score=0.906 total time= 2.3min
+[CV 2/3] END algorithm=brute, n_neighbors=7, weights=uniform;, score=0.907 total time= 2.2min
+[CV 3/3] END algorithm=brute, n_neighbors=7, weights=uniform;, score=0.908 total time= 2.3min
+[CV 1/3] END algorithm=brute, n_neighbors=7, weights=distance;, score=0.917 total time= 2.2min
+[CV 2/3] END algorithm=brute, n_neighbors=7, weights=distance;, score=0.917 total time= 2.2min
+[CV 3/3] END algorithm=brute, n_neighbors=7, weights=distance;, score=0.917 total time= 2.2min
+[CV 1/3] END algorithm=brute, n_neighbors=10, weights=uniform;, score=0.898 total time= 2.2min
+[CV 2/3] END algorithm=brute, n_neighbors=10, weights=uniform;, score=0.899 total time= 2.2min
+[CV 3/3] END algorithm=brute, n_neighbors=10, weights=uniform;, score=0.899 total time= 2.1min
+[CV 3/3] END algorithm=brute, n_neighbors=10, weights=distance;, score=0.914 total time= 2.0min
+[CV 1/3] END algorithm=brute, n_neighbors=10, weights=distance;, score=0.912 total time= 2.1min
+[CV 2/3] END algorithm=brute, n_neighbors=10, weights=distance;, score=0.913 total time= 2.1min
+📊 Best params for KNN: {'algorithm': 'auto', 'n_neighbors': 3, 'weights': 'distance'} (CV = 0.9214)
+✅ KNN — Validation Acc = 0.9322
+
+🔍 Starting Grid Search for SVM...
+Fitting 3 folds for each of 12 candidates, totalling 36 fits
+[CV 1/3] END ..C=0.1, gamma=auto, kernel=linear;, score=0.726 total time=83.6min
+[CV 2/3] END ..C=0.1, gamma=auto, kernel=linear;, score=0.728 total time=83.9min
+[CV 1/3] END .C=0.1, gamma=scale, kernel=linear;, score=0.726 total time=86.1min
+[CV 3/3] END .C=0.1, gamma=scale, kernel=linear;, score=0.727 total time=86.5min
+[CV 2/3] END .C=0.1, gamma=scale, kernel=linear;, score=0.728 total time=87.7min
+[CV 2/3] END ...C=0.1, gamma=scale, kernel=rbf;, score=0.783 total time=104.5min
+[CV 3/3] END ...C=0.1, gamma=scale, kernel=rbf;, score=0.784 total time=108.6min
+[CV 1/3] END ...C=0.1, gamma=scale, kernel=rbf;, score=0.783 total time=113.1min
+[CV 3/3] END ..C=0.1, gamma=auto, kernel=linear;, score=0.727 total time=82.9min
+[CV 1/3] END ......C=1, gamma=scale, kernel=rbf;, score=0.823 total time=81.4min
+[CV 1/3] END ....C=0.1, gamma=auto, kernel=rbf;, score=0.743 total time=127.1min
+[CV 3/3] END ....C=0.1, gamma=auto, kernel=rbf;, score=0.744 total time=126.4min
+[CV 2/3] END ....C=0.1, gamma=auto, kernel=rbf;, score=0.744 total time=127.0min
+[CV 1/3] END ..C=1, gamma=scale, kernel=linear;, score=0.727 total time=139.2min
+[CV 2/3] END ......C=1, gamma=scale, kernel=rbf;, score=0.823 total time=76.7min
+[CV 2/3] END ..C=1, gamma=scale, kernel=linear;, score=0.728 total time=141.7min
+[CV 3/3] END ..C=1, gamma=scale, kernel=linear;, score=0.728 total time=145.0min
+[CV 3/3] END ......C=1, gamma=scale, kernel=rbf;, score=0.825 total time=83.4min
+[CV 1/3] END .......C=1, gamma=auto, kernel=rbf;, score=0.770 total time=93.6min
+[CV 2/3] END .......C=1, gamma=auto, kernel=rbf;, score=0.770 total time=93.0min
+[CV 3/3] END .......C=1, gamma=auto, kernel=rbf;, score=0.771 total time=94.3min
+[CV 3/3] END ...C=1, gamma=auto, kernel=linear;, score=0.728 total time=141.1min
+[CV 1/3] END ...C=1, gamma=auto, kernel=linear;, score=0.727 total time=146.5min
+[CV 2/3] END ...C=1, gamma=auto, kernel=linear;, score=0.728 total time=146.2min
+[CV 1/3] END ....C=10, gamma=scale, kernel=rbf;, score=0.859 total time=102.8min
+[CV 2/3] END ....C=10, gamma=scale, kernel=rbf;, score=0.860 total time=100.7min
+[CV 3/3] END .....C=10, gamma=scale, kernel=rbf;, score=0.859 total time=98.2min
+[CV 1/3] END ......C=10, gamma=auto, kernel=rbf;, score=0.797 total time=93.9min
+[CV 2/3] END ......C=10, gamma=auto, kernel=rbf;, score=0.797 total time=93.1min
+[CV 3/3] END ......C=10, gamma=auto, kernel=rbf;, score=0.798 total time=83.0min

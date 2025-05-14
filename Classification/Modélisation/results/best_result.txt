@@ -1,0 +1,18 @@
+Meilleurs hyperparamètres pour CatBoost : {'depth': 7, 'iterations': 1000, 'learning_rate': 0.2}
+CatBoost - Accuracy Validation : 0.9249
+
+Meilleurs hyperparamètres pour XGBoost : {'learning_rate': 0.2, 'max_depth': 7, 'n_estimators': 200}
+XGBoost - Accuracy Validation : 0.9088
+
+Meilleurs hyperparamètres pour Random Forest: {'max_depth': None, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 300} (CV = 0.9438)
+
+
+Meilleurs hyperparamètres pour LightGBM: {'learning_rate': 0.1, 'n_estimators': 100, 'num_leaves': 100} (CV = 0.9035)
+LightGBM — Validation Acc = 0.9163
+
+
+
+Meilleurs hyperparamètres pour KNN: {'algorithm': 'auto', 'n_neighbors': 3, 'weights': 'distance'} (CV = 0.9214)
+KNN — Validation Acc = 0.9322
+[CV 2/3] END algorithm=brute, n_neighbors=10, weights=distance;, score=0.913 total time= 2.1min
+
